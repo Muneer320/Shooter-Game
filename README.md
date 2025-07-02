@@ -5,6 +5,8 @@ Welcome to **2D Shooter Game**! A thrilling, customizable shooter-platformer gam
 Navigate complex levels, outmaneuver enemies, gather upgrades, and strategize with limited resources to reach your objective. 
 With a built-in Level Editor, you can design and play your own levels for endless excitement.
 
+![Preview Image](image.png "Preview Image")
+
 ## Features
 
 - **Shooter Mechanics**: Control the main character to shoot or dodge enemies as you make your way through challenging levels.
